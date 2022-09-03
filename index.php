@@ -1,6 +1,0 @@
-<?php
-
-asdasdsad
-  
-
-phpinfo();
